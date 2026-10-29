@@ -2,8 +2,8 @@
  "schema": "berawa-project/1",
  "slug": "demo-siete-islas-madrid",
  "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
- "created_at": "2026-10-29T01:22:00+01:00",
- "updated_at": "2026-10-29T01:50:00+01:00",
+ "created_at": "2026-10-29T01:21:00+01:00",
+ "updated_at": "2026-10-29T01:28:00+01:00",
  "business": {
   "name": "7 Islas Hotel",
   "legal_name": "ISLA MADRID, S.L.",
@@ -51,7 +51,7 @@
  },
  "audit_original": {
   "url": "https://www.7islashotel.com/",
-  "date": "2026-10-29T01:22:00+01:00",
+  "date": "2026-10-29T01:21:00+01:00",
   "veredicto": "LCP > 4 s",
   "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
  },

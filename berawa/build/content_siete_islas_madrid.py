@@ -64,7 +64,7 @@ D=dict(name='7 Islas Hotel',ac='#1f5c5a',ac2='#d1664a',ac2_a11y='#8f3a22',book=B
  address='C/ Valverde 14 · 28004 Madrid',phones=['91 523 46 88'],emails=['reservas@7islashotel.com'],maps='7 Islas Hotel, Calle Valverde 14, Madrid',t=T)
 META=dict(repo='demo-siete-islas-madrid',name='7 Islas Hotel',legal_name='ISLA MADRID, S.L.',registry_ids=['CIF B35564046'],
  url='https://www.7islashotel.com/',domain='7islashotel.com',municipality='Madrid',province='Madrid',sector='hotel boutique de diseno en el centro',
- read_at='2026-10-29T01:25:00+01:00',created_at='2026-10-29T01:22:00+01:00',built_at='2026-10-29T01:50:00+01:00',audit_date='2026-10-29T01:22:00+01:00',
+ read_at='2026-10-29T01:22:00+01:00',created_at='2026-10-29T01:21:00+01:00',built_at='2026-10-29T01:28:00+01:00',audit_date='2026-10-29T01:21:00+01:00',
  rating=dict(value=4.5,coincide=['telefono','web'],date='2026-10-29T01:21:38+01:00',url='https://www.google.com/maps/place/7+Islas+Hotel+Madrid/@40.4212052,-3.7019282,17z/data=!4m9!3m8!1s0xd42288790d76793:0x36f798568c536138!5m2!4m1!1i2!8m2!3d40.4212052!4d-3.7019282!16s%2Fg%2F1tcy03xp'),
  book=dict(mode='mail',email='reservas@7islashotel.com',note='La web del negocio reserva con un buscador/motor propio (Bookassist) sin URL propia: la demo usa solo contacto real (correo y telefono).'),
  first_of_type='primer tipo de negocio sin precedente: hotel urbano boutique de diseno (el modelo aprobado Cazorla Rural es alojamiento rural)')

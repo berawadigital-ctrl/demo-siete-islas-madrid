@@ -1,4 +1,4 @@
-# Base de conocimiento del chatbot. Cada entrada: claves por idioma, respuesta por idioma y fuentes (URL + cita literal de la web del negocio, leida el 29/10/2026 01:25).
+# Base de conocimiento del chatbot. Cada entrada: claves por idioma, respuesta por idioma y fuentes (URL + cita literal de la web del negocio, leida el 29/10/2026 01:22).
 U='https://www.7islashotel.com/'
 def E(id,topic,keys,a,src,cta=False): return dict(id=id,topic=topic,keys=keys,a=a,sources=[dict(url=U+u,quote=q) for u,q in src],cta=cta)
 ES='es/'; HABES=ES+'habitaciones/'; DLX='rooms/deluxe-room/'; PEN='rooms/penthouse-terrace/'; EASY='rooms/easy-room/'; PET='pet-friendly/'; CON='contact-us/'; LEG='legal-notice/'; BAR=ES+'7-kitchen-bar/'
@@ -61,5 +61,5 @@ E('K12','historia',
  dict(es='Su web cuenta que es uno de los únicos hoteles familiares que quedan en Madrid: lo inauguró en 2002 el empresario Juan Rosa y hoy lo dirige su nieta, Mónica Salces Rosa.',ca='La seva web explica que és un dels únics hotels familiars que queden a Madrid: el va inaugurar el 2002 l\'empresari Juan Rosa i avui el dirigeix la seva néta, Mónica Salces Rosa.',en='Their website says it is one of the only family hotels left in Madrid: it was opened in 2002 by businessman Juan Rosa and is now run by his granddaughter, Mónica Salces Rosa.',fr='Leur site explique que c\'est l\'un des seuls hôtels familiaux qui restent à Madrid : il a été inauguré en 2002 par l\'homme d\'affaires Juan Rosa et est aujourd\'hui dirigé par sa petite-fille, Mónica Salces Rosa.'),
  [(ES,'7 Islas Hotel es uno de los únicos hoteles familiares que quedan en Madrid'),(ES,'Inaugurado en el año 2002 por el empresario Juan Rosa'),(ES,'este hotel boutique está dirigido por su nieta, Mónica Salces Rosa')]),
 ]
-KB=dict(schema='berawa-knowledge/1',project='demo-siete-islas-madrid',source_site='https://www.7islashotel.com/',source_read_at='2026-10-29T01:25:00+01:00',
+KB=dict(schema='berawa-knowledge/1',project='demo-siete-islas-madrid',source_site='https://www.7islashotel.com/',source_read_at='2026-10-29T01:22:00+01:00',
  note='Respuestas solo con datos publicados en 7islashotel.com. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.',entries=ENTRIES)
