@@ -1,0 +1,823 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-siete-islas-madrid",
+ "source_site": "https://www.7islashotel.com/",
+ "source_read_at": "2026-10-29T01:25:00+01:00",
+ "note": "Respuestas solo con datos publicados en 7islashotel.com. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "habitacion",
+     "tipos de",
+     "easy",
+     "deluxe",
+     "atico",
+     "terraza",
+     "cama",
+     "capacidad",
+     "metros",
+     "tamano"
+    ],
+    "ca": [
+     "habitacio",
+     "tipus d",
+     "easy",
+     "deluxe",
+     "atic",
+     "terrassa",
+     "llit",
+     "capacitat",
+     "metres",
+     "mida"
+    ],
+    "en": [
+     "room",
+     "types of",
+     "easy",
+     "deluxe",
+     "penthouse",
+     "terrace",
+     "bed",
+     "capacity",
+     "square",
+     "size"
+    ],
+    "fr": [
+     "chambre",
+     "types de",
+     "easy",
+     "deluxe",
+     "penthouse",
+     "terrasse",
+     "lit",
+     "capacite",
+     "metres",
+     "taille"
+    ]
+   },
+   "a": {
+    "es": "Hay tres tipos: Easy (17 m², camas queen size o twin), Deluxe (23 m², con vistas a la calle Valverde o al patio interior) y Ático con terraza (31 m² en la planta superior, con terraza privada).",
+    "ca": "Hi ha tres tipus: Easy (17 m², llits queen size o twin), Deluxe (23 m², amb vistes al carrer Valverde o al pati interior) i Àtic amb terrassa (31 m² a la planta superior, amb terrassa privada).",
+    "en": "There are three types: Easy (17 m², queen size or twin beds), Deluxe (23 m², with views of Valverde street or the inner courtyard) and Penthouse with terrace (31 m² on the top floor, with a private terrace).",
+    "fr": "Il y a trois types : Easy (17 m², lits queen size ou twin), Deluxe (23 m², avec vue sur la rue Valverde ou sur la cour intérieure) et Penthouse avec terrasse (31 m² à l'étage supérieur, avec terrasse privée)."
+   },
+   "sources": [
+    {
+     "url": "https://www.7islashotel.com/es/habitaciones/",
+     "quote": "Nuestras acogedoras y luminosas habitaciones de 17m2 con camas queen size o twin beds"
+    },
+    {
+     "url": "https://www.7islashotel.com/es/habitaciones/",
+     "quote": "Estas espaciosas habitaciones de 23m2 están inundadas de luz natural"
+    },
+    {
+     "url": "https://www.7islashotel.com/es/habitaciones/",
+     "quote": "Estas cómodas y amplias habitaciones de 31m2 están ubicadas en la planta superior del hotel y cuentan con terraza privada con vistas únicas de Madrid"
+    },
+    {
+     "url": "https://www.7islashotel.com/es/habitaciones/",
+     "quote": "Para los más urbanitas con vistas a la calle Valverde, y para los que quieran desconectar, con vistas al patio interior"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "equipamiento",
+   "keys": {
+    "es": [
+     "minibar",
+     "caja fuerte",
+     "television",
+     " tv",
+     "hervidor",
+     "albornoz",
+     "zapatillas",
+     "lavanderia",
+     "secador",
+     "escritorio",
+     "gimnasio",
+     "amenities",
+     "wifi",
+     "equipamiento",
+     "que incluye"
+    ],
+    "ca": [
+     "minibar",
+     "caixa forta",
+     "televisio",
+     " tv",
+     "bullidor",
+     "barnús",
+     "sabatilles",
+     "bugaderia",
+     "assecador",
+     "escriptori",
+     "gimnas",
+     "amenities",
+     "wifi",
+     "equipament",
+     "que inclou"
+    ],
+    "en": [
+     "minibar",
+     "safe",
+     "television",
+     " tv",
+     "kettle",
+     "bathrobe",
+     "slippers",
+     "laundry",
+     "hairdryer",
+     "desk",
+     "gym",
+     "amenities",
+     "wifi",
+     "equipment",
+     "what is included"
+    ],
+    "fr": [
+     "minibar",
+     "coffre fort",
+     "television",
+     " tv",
+     "bouilloire",
+     "peignoir",
+     "chaussons",
+     "blanchisserie",
+     "seche cheveux",
+     "bureau",
+     "salle de sport",
+     "produits",
+     "wifi",
+     "equipement",
+     "qu est ce qui est inclus"
+    ]
+   },
+   "a": {
+    "es": "Su web lista (según la habitación) albornoz y zapatillas, hervidor con selección de té, caja fuerte, TV LCD, minibar gourmet, escritorio en Deluxe y ático, servicio de lavandería, amenities Malin + Goetz, secador, wifi gratis y acceso al gimnasio del hotel.",
+    "ca": "La seva web llista (segons l'habitació) barnús i sabatilles, bullidor amb selecció de te, caixa forta, TV LCD, minibar gourmet, escriptori a Deluxe i àtic, servei de bugaderia, amenities Malin + Goetz, assecador, wifi gratis i accés al gimnàs de l'hotel.",
+    "en": "Their website lists (depending on the room) bathrobe and slippers, kettle with tea selection, safe, LCD TV, gourmet minibar, a desk in Deluxe and penthouse, laundry service, Malin + Goetz amenities, hairdryer, free wifi and access to the hotel gym.",
+    "fr": "Leur site indique (selon la chambre) peignoir et chaussons, bouilloire avec sélection de thés, coffre-fort, TV LCD, minibar gourmet, bureau en Deluxe et penthouse, service de blanchisserie, produits Malin + Goetz, sèche-cheveux, wifi gratuit et accès à la salle de sport de l'hôtel."
+   },
+   "sources": [
+    {
+     "url": "https://www.7islashotel.com/rooms/deluxe-room/",
+     "quote": "Bathrobe and slippers 7 Islas In-room kettle and complimentary tea selection"
+    },
+    {
+     "url": "https://www.7islashotel.com/rooms/deluxe-room/",
+     "quote": "Safe box LCD TV Gourmet Minibar Working desk Laundry service"
+    },
+    {
+     "url": "https://www.7islashotel.com/rooms/deluxe-room/",
+     "quote": "Free wi-fi Access to the hotel gym"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "precios",
+   "keys": {
+    "es": [
+     "precio",
+     "tarifa",
+     "cuanto cuesta",
+     "cuanto vale",
+     "euros",
+     "por noche",
+     "barato"
+    ],
+    "ca": [
+     "preu",
+     "tarifa",
+     "quant costa",
+     "quant val",
+     "euros",
+     "per nit",
+     "barat"
+    ],
+    "en": [
+     "price",
+     "rate",
+     "how much",
+     "euro",
+     "per night",
+     "cheap",
+     " cost"
+    ],
+    "fr": [
+     "prix",
+     "tarif",
+     "combien coute",
+     "combien vaut",
+     "euros",
+     "par nuit",
+     "pas cher"
+    ]
+   },
+   "a": {
+    "es": "Las tarifas de habitación no están publicadas en su web: se ven en su buscador de reservas, y la web indica «Mejor precio garantizado. Solo en nuestra web». Para consultas: reservas@7islashotel.com o +34 91 523 46 88.",
+    "ca": "Les tarifes d'habitació no estan publicades a la seva web: es veuen al seu cercador de reserves, i la web indica «Millor preu garantit. Només a la nostra web». Per a consultes: reservas@7islashotel.com o +34 91 523 46 88.",
+    "en": "Room rates are not published on their website: they appear in their booking search, and the site says \"Best price guaranteed. Only on our website\". For enquiries: reservas@7islashotel.com or +34 91 523 46 88.",
+    "fr": "Les tarifs des chambres ne sont pas publiés sur leur site : ils s'affichent dans leur moteur de réservation, et le site indique « Meilleur prix garanti. Uniquement sur notre site ». Pour toute question : reservas@7islashotel.com ou +34 91 523 46 88."
+   },
+   "sources": [
+    {
+     "url": "https://www.7islashotel.com/es/",
+     "quote": "Mejor precio garantizado Solo en nuestra web"
+    },
+    {
+     "url": "https://www.7islashotel.com/es/habitaciones/",
+     "quote": "!€"
+    },
+    {
+     "url": "https://www.7islashotel.com/es/",
+     "quote": "!€"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K04",
+   "topic": "mascotas",
+   "keys": {
+    "es": [
+     "mascota",
+     "perro",
+     "animal",
+     "pet friendly",
+     "gato"
+    ],
+    "ca": [
+     "mascot",
+     "gos",
+     "animal",
+     "pet friendly",
+     "gat"
+    ],
+    "en": [
+     " pet",
+     "dog",
+     "animal",
+     "pet friendly",
+     " cat "
+    ],
+    "fr": [
+     "animaux",
+     "chien",
+     "animal",
+     "pet friendly",
+     "chat "
+    ]
+   },
+   "a": {
+    "es": "Es pet friendly solo para perros, de hasta 12 kg, en habitaciones Deluxe y ático; el servicio cuesta 25 € por noche, según su web (29/10/2026), y hay que avisar antes a recepción. Confírmalo al reservar.",
+    "ca": "És pet friendly només per a gossos, de fins a 12 kg, a habitacions Deluxe i àtic; el servei costa 25 € per nit, segons la seva web (29/10/2026), i cal avisar abans la recepció. Confirma-ho en reservar.",
+    "en": "It is pet friendly for dogs only, up to 12 kg, in Deluxe and penthouse rooms; the service costs €25 per night, according to their website (29/10/2026), and you must contact the front desk beforehand. Confirm it when you book.",
+    "fr": "L'hôtel accepte uniquement les chiens, jusqu'à 12 kg, dans les chambres Deluxe et penthouse ; le service coûte 25 € par nuit, selon leur site (29/10/2026), et il faut prévenir la réception à l'avance. Confirmez-le lors de la réservation."
+   },
+   "sources": [
+    {
+     "url": "https://www.7islashotel.com/pet-friendly/",
+     "quote": "The reservation of the Pet Friendly service has an extra cost of 25€ per night"
+    },
+    {
+     "url": "https://www.7islashotel.com/pet-friendly/",
+     "quote": "We accept only dogs as pets and with a maximum weight of 12kg"
+    },
+    {
+     "url": "https://www.7islashotel.com/pet-friendly/",
+     "quote": "The hotel rooms that have Pet Friendly service are the Deluxe and the Penthouses with terrace"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K05",
+   "topic": "restaurante y bar",
+   "keys": {
+    "es": [
+     "restaurante",
+     "cocteles",
+     "coctel",
+     "kitchen",
+     "hay bar",
+     "cafeteria",
+     "desayuno",
+     "cenar",
+     "comer",
+     "horario",
+     "menu",
+     "alergeno",
+     "movilidad"
+    ],
+    "ca": [
+     "restaurant",
+     "coctels",
+     "coctel",
+     "kitchen",
+     "hi ha bar",
+     "cafeteria",
+     "esmorzar",
+     "sopar",
+     "menjar",
+     "horari",
+     "menu",
+     "alergen",
+     "mobilitat"
+    ],
+    "en": [
+     "restaurant",
+     "cocktail",
+     "kitchen",
+     "is there a restaurant",
+     "cafe",
+     "breakfast",
+     "dinner",
+     "eat",
+     "opening hours",
+     "menu",
+     "allergen",
+     "mobility"
+    ],
+    "fr": [
+     "restaurant",
+     "cocktail",
+     "kitchen",
+     "un restaurant",
+     "cafe",
+     "petit dejeuner",
+     "diner",
+     "manger",
+     "horaires",
+     "menu",
+     "allergene",
+     "mobilite"
+    ]
+   },
+   "a": {
+    "es": "Tiene 7 Kitchen & Bar, con desayuno buffet, cocina y cócteles. El bar abre de lunes a jueves 10.30 – 23.00, viernes 10.30 – 23.30, sábado 11.00 – 23.30 y domingo 11.00 – 23.00; cocina y servicio de habitaciones cada día 12.00 – 22.30. Su web dice que es apto para personas con movilidad reducida.",
+    "ca": "Té 7 Kitchen & Bar, amb esmorzar bufet, cuina i còctels. El bar obre de dilluns a dijous 10.30 – 23.00, divendres 10.30 – 23.30, dissabte 11.00 – 23.30 i diumenge 11.00 – 23.00; cuina i servei d'habitacions cada dia 12.00 – 22.30. La seva web diu que és apte per a persones amb mobilitat reduïda.",
+    "en": "It has 7 Kitchen & Bar, with buffet breakfast, kitchen and cocktails. The bar is open Monday to Thursday 10.30 – 23.00, Friday 10.30 – 23.30, Saturday 11.00 – 23.30 and Sunday 11.00 – 23.00; kitchen and room service every day 12.00 – 22.30. Their website says it is suitable for people with reduced mobility.",
+    "fr": "Il y a 7 Kitchen & Bar, avec petit-déjeuner buffet, cuisine et cocktails. Le bar est ouvert du lundi au jeudi 10.30 – 23.00, le vendredi 10.30 – 23.30, le samedi 11.00 – 23.30 et le dimanche 11.00 – 23.00 ; cuisine et service en chambre chaque jour 12.00 – 22.30. Leur site indique qu'il est adapté aux personnes à mobilité réduite."
+   },
+   "sources": [
+    {
+     "url": "https://www.7islashotel.com/es/7-kitchen-bar/",
+     "quote": "Horario de apertura del bar Lunes a jueves 10.30 – 23.00 Viernes 10.30 – 23.30 Sábado 11.00 – 23.30 Domingo 11.00 – 23.00"
+    },
+    {
+     "url": "https://www.7islashotel.com/es/7-kitchen-bar/",
+     "quote": "Servicio de cocina y habitaciones Cada día 12.00 – 22.30"
+    },
+    {
+     "url": "https://www.7islashotel.com/es/7-kitchen-bar/",
+     "quote": "Nuestro desayuno buffet saludable y de proximidad"
+    },
+    {
+     "url": "https://www.7islashotel.com/es/7-kitchen-bar/",
+     "quote": "Apto para personas con movilidad reducida"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "ventajas de reservar y check-in",
+   "keys": {
+    "es": [
+     "check in",
+     "checkin",
+     "check out",
+     "checkout",
+     "early",
+     "late",
+     "bicicleta",
+     "ventaja",
+     "mejor precio",
+     "hora de llegada",
+     "hora de salida"
+    ],
+    "ca": [
+     "check in",
+     "checkin",
+     "check out",
+     "checkout",
+     "early",
+     "late",
+     "bicicleta",
+     "avantatge",
+     "millor preu",
+     "hora d arribada",
+     "hora de sortida"
+    ],
+    "en": [
+     "check in",
+     "checkin",
+     "check out",
+     "checkout",
+     "early",
+     "late",
+     "bicycle",
+     "bike",
+     "advantage",
+     "best price",
+     "arrival time",
+     "departure time"
+    ],
+    "fr": [
+     "check in",
+     "checkin",
+     "check out",
+     "checkout",
+     "early",
+     "late",
+     "velo",
+     "avantage",
+     "meilleur prix",
+     "heure d arrivee",
+     "heure de depart"
+    ]
+   },
+   "a": {
+    "es": "Su web ofrece, reservando en su web: early check-in y late check-out (bajo disponibilidad) y uso gratis de las bicicletas del hotel medio día. No publica las horas de entrada y salida.",
+    "ca": "La seva web ofereix, reservant-hi: early check-in i late check-out (segons disponibilitat) i ús gratuït de les bicicletes de l'hotel mig dia. No publica les hores d'entrada i sortida.",
+    "en": "Their website offers, when you book on it: early check-in and late check-out (subject to availability) and free use of the hotel bicycles for half a day. It does not publish check-in and check-out times.",
+    "fr": "Leur site offre, en réservant sur celui-ci : early check-in et late check-out (selon disponibilité) et l'utilisation gratuite des vélos de l'hôtel une demi-journée. Il ne publie pas les heures d'arrivée et de départ."
+   },
+   "sources": [
+    {
+     "url": "https://www.7islashotel.com/es/",
+     "quote": "Mejor precio garantizado Solo en nuestra web Uso de bicicletas del hotel medio día gratis Early check-in (bajo disponibilidad) Late check-out (bajo disponibilidad)"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "arte y diseño",
+   "keys": {
+    "es": [
+     "arte",
+     "galeria",
+     "diseno",
+     "kikekeller",
+     "exposicion",
+     "evento",
+     "reunion"
+    ],
+    "ca": [
+     "art",
+     "galeria",
+     "disseny",
+     "kikekeller",
+     "exposicio",
+     "esdeveniment",
+     "reunio"
+    ],
+    "en": [
+     "art",
+     "gallery",
+     "design",
+     "kikekeller",
+     "exhibition",
+     "event",
+     "meeting"
+    ],
+    "fr": [
+     "art",
+     "galerie",
+     "design",
+     "kikekeller",
+     "exposition",
+     "evenement",
+     "reunion"
+    ]
+   },
+   "a": {
+    "es": "Sus habitaciones están diseñadas por el estudio Kikekeller, y el hotel tiene una galería de arte con exposiciones itinerantes en el vestíbulo, además de gastronomía y coctelería artesanal.",
+    "ca": "Les seves habitacions estan dissenyades per l'estudi Kikekeller, i l'hotel té una galeria d'art amb exposicions itinerants al vestíbul, a més de gastronomia i coctelería artesanal.",
+    "en": "Its rooms are designed by the Kikekeller studio, and the hotel has an art gallery with travelling exhibitions in the lobby, plus gastronomy and craft cocktails.",
+    "fr": "Ses chambres sont conçues par le studio Kikekeller, et l'hôtel a une galerie d'art avec des expositions itinérantes dans le hall, ainsi que de la gastronomie et des cocktails artisanaux."
+   },
+   "sources": [
+    {
+     "url": "https://www.7islashotel.com/es/",
+     "quote": "Habitaciones diseñadas por el estudio Kikekeller, una galería de arte con exposiciones itinerantes y gastonomía y coctelería artesanal"
+    },
+    {
+     "url": "https://www.7islashotel.com/es/",
+     "quote": "Una muestra del trabajo de Pablo Quintana en el lobby del hotel"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirmame",
+     "libre",
+     "fechas",
+     "contratar"
+    ],
+    "ca": [
+     "reserv",
+     "disponib",
+     "confirma m",
+     "lliure",
+     "dates",
+     "contractar"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm",
+     "free room",
+     "dates"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirmez",
+     "libre",
+     "dates"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar con el buscador de su web (Habitación y fechas), escribir a reservas@7islashotel.com o llamar al +34 91 523 46 88. Este asistente no confirma disponibilidad ni reservas.",
+    "ca": "Pots reservar amb el cercador de la seva web (habitació i dates), escriure a reservas@7islashotel.com o trucar al +34 91 523 46 88. Aquest assistent no confirma disponibilitat ni reserves.",
+    "en": "You can book with the search on their website (room and dates), email reservas@7islashotel.com or call +34 91 523 46 88. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver avec le moteur de recherche de leur site (chambre et dates), écrire à reservas@7islashotel.com ou appeler le +34 91 523 46 88. Cet assistant ne confirme ni disponibilité ni réservation."
+   },
+   "sources": [
+    {
+     "url": "https://www.7islashotel.com/es/habitaciones/",
+     "quote": "Dudas y reservas: reservas@7islashotel.com"
+    },
+    {
+     "url": "https://www.7islashotel.com/es/habitaciones/",
+     "quote": "T (34) 91 523 46 88"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K09",
+   "topic": "ubicación",
+   "keys": {
+    "es": [
+     "donde",
+     "direccion",
+     "ubicacion",
+     "situado",
+     "mapa",
+     "centro",
+     "llegar",
+     "como llego",
+     "calle",
+     "gran via",
+     "malasana"
+    ],
+    "ca": [
+     " on ",
+     "adreca",
+     "ubicacio",
+     "situat",
+     "mapa",
+     "centre",
+     "arribar",
+     "com arribo",
+     "carrer",
+     "gran via",
+     "malasana"
+    ],
+    "en": [
+     "where",
+     "address",
+     "location",
+     "located",
+     "map",
+     "centre",
+     "get there",
+     "how do i get",
+     "street",
+     "gran via",
+     "malasana"
+    ],
+    "fr": [
+     " ou ",
+     "adresse",
+     "situe",
+     "sur la carte",
+     "centre",
+     "venir",
+     "comment arriver",
+     "rue",
+     "gran via",
+     "malasana"
+    ]
+   },
+   "a": {
+    "es": "Está en la calle Valverde 14, 28004 Madrid, un oasis entre la Gran Vía madrileña y el barrio de Malasaña.",
+    "ca": "És al carrer Valverde 14, 28004 Madrid, un oasi entre la Gran Via madrilenya i el barri de Malasaña.",
+    "en": "It is at Calle Valverde 14, 28004 Madrid, an oasis between Madrid's Gran Vía and the Malasaña neighbourhood.",
+    "fr": "Il est situé calle Valverde 14, 28004 Madrid, une oasis entre la Gran Vía madrilène et le quartier de Malasaña."
+   },
+   "sources": [
+    {
+     "url": "https://www.7islashotel.com/es/habitaciones/",
+     "quote": "c/ Valverde 14 28004 Madrid"
+    },
+    {
+     "url": "https://www.7islashotel.com/es/",
+     "quote": "Un oasis entre la Gran Via madrileña y el vibrante barrio de Malasaña"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "contacto",
+   "keys": {
+    "es": [
+     "telefono",
+     "llamar",
+     "correo",
+     "email",
+     "contacto",
+     "contactar",
+     "prensa"
+    ],
+    "ca": [
+     "telefon",
+     "trucar",
+     "correu",
+     "email",
+     "contacte",
+     "contactar",
+     "premsa"
+    ],
+    "en": [
+     "phone",
+     "call",
+     "email",
+     " mail",
+     "contact",
+     "press"
+    ],
+    "fr": [
+     "telephone",
+     "appeler",
+     "email",
+     " mail",
+     "contact",
+     "presse"
+    ]
+   },
+   "a": {
+    "es": "Teléfono +34 91 523 46 88; reservas y dudas: reservas@7islashotel.com; prensa y colaboraciones: hola@7islashotel.com.",
+    "ca": "Telèfon +34 91 523 46 88; reserves i dubtes: reservas@7islashotel.com; premsa i col·laboracions: hola@7islashotel.com.",
+    "en": "Phone +34 91 523 46 88; bookings and enquiries: reservas@7islashotel.com; media and partners: hola@7islashotel.com.",
+    "fr": "Téléphone +34 91 523 46 88 ; réservations et questions : reservas@7islashotel.com ; presse et partenaires : hola@7islashotel.com."
+   },
+   "sources": [
+    {
+     "url": "https://www.7islashotel.com/contact-us/",
+     "quote": "T (34) 91 523 46 88"
+    },
+    {
+     "url": "https://www.7islashotel.com/contact-us/",
+     "quote": "Bookings & Inquiries: reservas@7islashotel.com"
+    },
+    {
+     "url": "https://www.7islashotel.com/contact-us/",
+     "quote": "Media & Partners: hola@7islashotel.com"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "titular",
+   "keys": {
+    "es": [
+     "titular",
+     "propietario",
+     "empresa",
+     "razon social",
+     "cif",
+     "quien es"
+    ],
+    "ca": [
+     "titular",
+     "propietari",
+     "empresa",
+     "rao social",
+     "cif",
+     "qui es"
+    ],
+    "en": [
+     "owner",
+     "owns",
+     "company",
+     "legal name",
+     "cif",
+     "who is"
+    ],
+    "fr": [
+     "titulaire",
+     "proprietaire",
+     "societe",
+     "raison sociale",
+     "cif",
+     "qui est"
+    ]
+   },
+   "a": {
+    "es": "Su aviso legal indica como razón social ISLA MADRID S.L. (NIF B35564046), con nombre comercial 7 ISLAS HOTEL.",
+    "ca": "El seu avís legal indica com a raó social ISLA MADRID S.L. (NIF B35564046), amb nom comercial 7 ISLAS HOTEL.",
+    "en": "Their legal notice gives ISLA MADRID S.L. (NIF B35564046) as the company name, with the trade name 7 ISLAS HOTEL.",
+    "fr": "Leurs mentions légales indiquent ISLA MADRID S.L. (NIF B35564046) comme raison sociale, avec le nom commercial 7 ISLAS HOTEL."
+   },
+   "sources": [
+    {
+     "url": "https://www.7islashotel.com/legal-notice/",
+     "quote": "Commercial name: 7 ISLAS HOTEL Company name: ISLA MADRID S.L. NIF: B35564046"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K12",
+   "topic": "historia",
+   "keys": {
+    "es": [
+     "historia",
+     "familiar",
+     "familia",
+     "fundador",
+     "inaugur",
+     "quien dirige",
+     "directora"
+    ],
+    "ca": [
+     "historia",
+     "familiar",
+     "familia",
+     "fundador",
+     "inaugur",
+     "qui dirigeix",
+     "directora"
+    ],
+    "en": [
+     "history",
+     "family",
+     "founder",
+     "opened",
+     "who runs",
+     "director"
+    ],
+    "fr": [
+     "histoire",
+     "familial",
+     "famille",
+     "fondateur",
+     "inaugur",
+     "qui dirige",
+     "directrice"
+    ]
+   },
+   "a": {
+    "es": "Su web cuenta que es uno de los únicos hoteles familiares que quedan en Madrid: lo inauguró en 2002 el empresario Juan Rosa y hoy lo dirige su nieta, Mónica Salces Rosa.",
+    "ca": "La seva web explica que és un dels únics hotels familiars que queden a Madrid: el va inaugurar el 2002 l'empresari Juan Rosa i avui el dirigeix la seva néta, Mónica Salces Rosa.",
+    "en": "Their website says it is one of the only family hotels left in Madrid: it was opened in 2002 by businessman Juan Rosa and is now run by his granddaughter, Mónica Salces Rosa.",
+    "fr": "Leur site explique que c'est l'un des seuls hôtels familiaux qui restent à Madrid : il a été inauguré en 2002 par l'homme d'affaires Juan Rosa et est aujourd'hui dirigé par sa petite-fille, Mónica Salces Rosa."
+   },
+   "sources": [
+    {
+     "url": "https://www.7islashotel.com/es/",
+     "quote": "7 Islas Hotel es uno de los únicos hoteles familiares que quedan en Madrid"
+    },
+    {
+     "url": "https://www.7islashotel.com/es/",
+     "quote": "Inaugurado en el año 2002 por el empresario Juan Rosa"
+    },
+    {
+     "url": "https://www.7islashotel.com/es/",
+     "quote": "este hotel boutique está dirigido por su nieta, Mónica Salces Rosa"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}

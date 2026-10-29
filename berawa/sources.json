@@ -1,0 +1,62 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.7islashotel.com/",
+ "read_at": "2026-10-29T01:25:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.7islashotel.com/contact-us/",
+   "sha256": "ac59db51e70da753deb2cc2be6fcf3b14507b1335a2cee455b794d3376544c49",
+   "chars": 3156
+  },
+  {
+   "url": "https://www.7islashotel.com/es/",
+   "sha256": "3010da97f81e50f47c374e3519871db8fd421ed0205f2870ed3056ea6f662166",
+   "chars": 6934
+  },
+  {
+   "url": "https://www.7islashotel.com/es/7-kitchen-bar/",
+   "sha256": "eafc3d0dd585d50034423d9682fb747e06eb992f1da5b2017d5a2483cc75ef79",
+   "chars": 4570
+  },
+  {
+   "url": "https://www.7islashotel.com/es/habitaciones/",
+   "sha256": "368dbb4fd8fc756997139c47c86aef757223b730a8484248252a1261fc0ea4be",
+   "chars": 4381
+  },
+  {
+   "url": "https://www.7islashotel.com/legal-notice/",
+   "sha256": "c77a6d9cd5623a6b4a2896f4e2b778797b4300ff7d0f36a9ea15013221bc9f1f",
+   "chars": 9725
+  },
+  {
+   "url": "https://www.7islashotel.com/pet-friendly/",
+   "sha256": "6cfa814be321221bf5b280ce9d3f0ea685ad14cdf89f6e139e770a2581a3540b",
+   "chars": 4748
+  },
+  {
+   "url": "https://www.7islashotel.com/rooms/deluxe-room/",
+   "sha256": "ecd7cf4d72168c03324033631f86119e41eed2571f782d3fa92869c141ba1338",
+   "chars": 3343
+  }
+ ],
+ "other_pages_read": [
+  "https://www.7islashotel.com",
+  "https://www.7islashotel.com/",
+  "https://www.7islashotel.com/7-kitchen-bar/",
+  "https://www.7islashotel.com/7i-art-gallery/",
+  "https://www.7islashotel.com/book/",
+  "https://www.7islashotel.com/business/",
+  "https://www.7islashotel.com/cookie-policy/",
+  "https://www.7islashotel.com/es/7-iart-gallery/",
+  "https://www.7islashotel.com/es/reservar/",
+  "https://www.7islashotel.com/exhibition/gastro-cocktails/",
+  "https://www.7islashotel.com/madrid-by-7-islas/",
+  "https://www.7islashotel.com/privacy-policy/",
+  "https://www.7islashotel.com/privacypolicy/",
+  "https://www.7islashotel.com/rooms/",
+  "https://www.7islashotel.com/rooms/easy-room/",
+  "https://www.7islashotel.com/rooms/penthouse-terrace/",
+  "https://www.7islashotel.com/terms-of-use/"
+ ]
+}
