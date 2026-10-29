@@ -1,0 +1,63 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-siete-islas-madrid",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-29T01:22:00+01:00",
+ "updated_at": "2026-10-29T01:50:00+01:00",
+ "business": {
+  "name": "7 Islas Hotel",
+  "legal_name": "ISLA MADRID, S.L.",
+  "registry_ids": [
+   "CIF B35564046"
+  ],
+  "url": "https://www.7islashotel.com/",
+  "domain": "7islashotel.com",
+  "municipality": "Madrid",
+  "province": "Madrid",
+  "address": "C/ Valverde 14 · 28004 Madrid",
+  "phones": [
+   "91 523 46 88"
+  ],
+  "emails": [
+   "reservas@7islashotel.com"
+  ],
+  "sector": "hotel boutique de diseno en el centro"
+ },
+ "rating": {
+  "value": 4.5,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/7+Islas+Hotel+Madrid/@40.4212052,-3.7019282,17z/data=!4m9!3m8!1s0xd42288790d76793:0x36f798568c536138!5m2!4m1!1i2!8m2!3d40.4212052!4d-3.7019282!16s%2Fg%2F1tcy03xp",
+  "date": "2026-10-29T01:21:38+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "ca",
+  "en",
+  "fr"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "mail",
+  "email": "reservas@7islashotel.com",
+  "note": "La web del negocio reserva con un buscador/motor propio (Bookassist) sin URL propia: la demo usa solo contacto real (correo y telefono)."
+ },
+ "audit_original": {
+  "url": "https://www.7islashotel.com/",
+  "date": "2026-10-29T01:22:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "primer tipo de negocio sin precedente: hotel urbano boutique de diseno (el modelo aprobado Cazorla Rural es alojamiento rural)",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
